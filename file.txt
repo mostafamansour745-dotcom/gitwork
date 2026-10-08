@@ -1,2 +1,0 @@
-hello , git
-second line in file.txt
